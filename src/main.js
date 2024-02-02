@@ -151,5 +151,6 @@ function updateGame() {
         fishCorpPurchased
     );
     building.update();
+    checkAchievements();
     updateButtons();
 }
