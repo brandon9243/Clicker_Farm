@@ -1,0 +1,17 @@
+✔ Create Basic Layout @done(24-02-02 13:17)
+    ✔ Add the word score @done(24-01-18 14:31)
+    ✔ Add the score @done(24-02-02 13:17)
+    ✔ Add the Manual clicking button @done(24-02-02 13:17)
+    ✔ Add the Buy AutoClicker button @done(24-02-02 13:17)
+
+✔ Manual Clicker Button @done(24-02-02 13:17)
+    ✔ Make the score go up by one when clicked @done(24-02-02 13:17)
+
+✔ AutoClicker Button @done(24-02-02 13:17)
+    ✔ Set a price @done(24-02-02 13:17)
+    ✔ Disable the button if the user's score is too low @done(24-02-02 13:17)
+    ✔ Enable the button when the user can afford it @done(24-02-02 13:17)
+    ✔ Add an AutoClicker when the user buys one @done(24-02-02 13:17)
+    ✔ Subtract the price from their score @done(24-02-02 13:17)
+    ✔ When the user has at least one AutoClicker increase their score by the amount of AutoClickers they have every 10 seconds @done(24-02-02 13:17)
+        ✔ Divide the user's AutoClickers by the tick rate @done(24-02-02 13:17)

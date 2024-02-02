@@ -25,13 +25,16 @@ function updateButtons() {
 
     document.getElementById(
         'fishermen'
-    ).innerText = `Buy Fishermen - Cost: ${fishermenCost}, Purchased: ${fishermenPurchased}`;
+    ).innerText = `Buy Fishermen - Cost: ${fishermenCost}, Purchased: ${fishermenPurchased}
+    1 Fish every 3 seconds`;
     document.getElementById(
         'fishNet'
-    ).innerText = `Buy Fishing Net Crew - Cost: ${fishNetCost}, Purchased: ${fishNetPurchased}`;
+    ).innerText = `Buy Fishing Net Crew - Cost: ${fishNetCost}, Purchased: ${fishNetPurchased}
+    20 Fish every 10 seconds`;
     document.getElementById(
         'fishCorp'
-    ).innerText = `Buy Fishermen Corporation - Cost: ${fishCorpCost}, Purchased: ${fishCorpPurchased}`;
+    ).innerText = `Buy Fishermen Corporation - Cost: ${fishCorpCost}, Purchased: ${fishCorpPurchased}
+    50 Fish every 15 seconds`;
 }
 
 const clickSound = new Audio('styles/sound/splash.wav');
